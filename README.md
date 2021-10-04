@@ -18,5 +18,7 @@ w folderze <b>/img</b>, masz schemat formularza oraz proponowany wygląd (niekon
 <li>framework</li>
 </ul>
 
+<p>pliki z rozwiązanym zadaniem proszę, umieścić w swoim <b>repozyterum</b> na <b>GIT</b> jako <b>publiczne</b> :) </p>
+
 
 <h4>Powodzenia | Janek Yax</h3>
